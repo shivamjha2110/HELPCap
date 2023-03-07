@@ -1,4 +1,4 @@
-# HELPCap
+# HelpCap
 Hands-free Mouse
 
 An arduino based cap-like device that simply connects to your computer using UART over
